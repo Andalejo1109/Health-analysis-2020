@@ -62,5 +62,7 @@ Here are some images showcasing the integration of the clustering results into t
 ## Contact
 
 [Alejandro Rodriguez Lozano]
+
 [alejo1109@gmail.com]
+
 [https://www.linkedin.com/in/andalejo/]
