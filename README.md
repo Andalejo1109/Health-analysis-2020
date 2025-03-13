@@ -45,11 +45,11 @@ The data used in this project was provided by my company, a health services BPO 
 
 Here are some images showcasing the integration of the clustering results into the Power BI dashboards:
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/descriptive analysis.PNG.png)
 
-![Cluster Visualization](images/cluster_visualization.png)
+![Cluster Visualization](images/calidad.png)
 
-![BPO Process Integration](images/bpo_process_integration.png)
+![BPO Process Integration](images/satisfaccion2.png)
 
 ## Usage
 
