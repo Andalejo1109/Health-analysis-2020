@@ -32,7 +32,7 @@ The goal of this project was to identify distinct patient groups based on their 
 
 ## Data Source
 
-The data used in this project was provided by my company, a health services BPO provider, and includes information from Clinica Country and Clinica Colina, spanning from 2018 to 2020. Due to patient privacy, the data is not directly included in this repository. If you are interested in replicating the analysis, please contact [your contact information, or instructions on how to request data if appropriate].
+The data used in this project was provided by my company, a health services BPO provider, and includes information from Clinica Country and Clinica Colina, spanning from 2018 to 2020. Due to patient privacy, the data is not directly included in this repository. If you are interested in replicating the analysis, please contact [alejo1109@gmail.com].
 
 ## Methodology
 
@@ -45,11 +45,11 @@ The data used in this project was provided by my company, a health services BPO 
 
 Here are some images showcasing the integration of the clustering results into the Power BI dashboards:
 
-![Dashboard Overview](images/descriptive analysis.PNG.png)
+![Dashboard Overview](images/descriptive_analysis.PNG)
 
-![Cluster Visualization](images/calidad.png)
+![Cluster Visualization](images/calidad.PNG)
 
-![BPO Process Integration](images/satisfaccion2.png)
+![BPO Process Integration](images/satisfaccion2.PNG)
 
 ## Usage
 
@@ -62,5 +62,5 @@ Here are some images showcasing the integration of the clustering results into t
 ## Contact
 
 [Alejandro Rodriguez Lozano]
-[alejo1109"gmail.com]
+[alejo1109@gmail.com]
 [https://www.linkedin.com/in/andalejo/]
