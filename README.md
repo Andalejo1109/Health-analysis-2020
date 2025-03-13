@@ -45,7 +45,7 @@ The data used in this project was provided by my company, a health services BPO 
 
 Here are some images showcasing the integration of the clustering results into the Power BI dashboards:
 
-![Dashboard Overview](/descriptive_analysis.PNG)
+![Dashboard Overview](/descriptive analysis.PNG)
 
 ![Cluster Visualization](/calidad.PNG)
 
