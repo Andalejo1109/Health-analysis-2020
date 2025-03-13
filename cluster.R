@@ -29,3 +29,20 @@ second differences plot) that corresponds to a significant increase of the value
 
 ***** Conclusion *****
 * According to the majority rule, the best number of clusters is 8
+
+#cluster generation:
+    
+TipificacioncymColina % > %
+mutate(Cluster ¯k8 $ cluster) % > %
+group by(Cluster) % > %
+summarise all(”mean”)
+df <- TipificacioncymColina
+df
+df$clus <- as.factor(k8$cluster)
+df
+
+df <- TipificacioncymColina
+df <- scale(df)
+df<- as.data.frame(df)
+df$clus <- as.factor(k8$cluster)
+df
